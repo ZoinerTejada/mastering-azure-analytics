@@ -2,7 +2,7 @@ mastering-azure-analytics
 ======================
 
 ## Overview
-Repository for code samples from the book Mastering Azure Analytics.
+Repository for code samples from the book [Mastering Azure Analytics](http://shop.oreilly.com/product/0636920050568.do).
 
 ![Mastering Azure Analytics](https://akamaicovers.oreilly.com/images/0636920050568/cat.gif)
 
